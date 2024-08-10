@@ -5,8 +5,8 @@ edition = "2021"
 authors = ["禾禾奇趣屋"]
 description = "禾禾奇趣屋开放API Rust SDK"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/yourusername/my_library"
-documentation = "./README.md"
+repository = "https://github.com/zelasier/ho-api-rust-sdk.git"
+documentation = "https://github.com/zelasier/ho-api-rust-sdk/blob/master/README.md"
 
 
 [dependencies]

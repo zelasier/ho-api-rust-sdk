@@ -3,7 +3,7 @@
 ### 引入
 ```toml
 [dependencies]
-ho-api-rust-sdk = { git = "https://github.com/Zelaaser/rust-sdk.git" }
+ho-api-rust-sdk = "1.0.0"
 ```
 
 
